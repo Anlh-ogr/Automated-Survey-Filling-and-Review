@@ -28,5 +28,5 @@ B4: Tìm và bấm vào mục Console
 B5: Copy code trong file (Automated-Survey-Filling-and-Review.js) và paste vào vị trí Console
 ![image](https://github.com/Anlh-morgan/Automated-Survey-Filling-and-Review/assets/145817609/86c12170-89f6-44dd-b7e1-74587f8ff0df)
 
-B6: Enter và chờ code chạy. Phiếu đánh giá đã được điền và gửi tự động.
+B6: Ấn Enter và chờ thông báo. Phiếu đánh giá đã được điền và gửi tự động.
 ![image](https://github.com/Anlh-morgan/Automated-Survey-Filling-and-Review/assets/145817609/d1d89506-b4b9-444a-9f8e-cf8deb3675c9)
