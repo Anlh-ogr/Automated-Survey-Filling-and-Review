@@ -1,7 +1,7 @@
 # Automated-Survey-Filling-and-Review
 
 Dành cho các bạn sinh viên khi gặp phải trường hợp điền Form đánh giá/khảo sát (phải làm đánh giá rất nhiều môn) và để tiết kiệm thời gian điền form.
-Đoạn gửijavascript này có thể tự động điền, viết đánh giá và gửi đi.
+Đoạn mã javascript này có thể tự động điền, viết đánh giá và gửi khảo sát đi.
 ![image](https://github.com/Anlh-morgan/Automated-Survey-Filling-and-Review/assets/145817609/ae85af32-44ed-4845-ae3c-fef8f1d84c11)
 
 - Trình duyệt khuyến khích sử dụng: Google Chrome, Safari, Microsoft Edge
